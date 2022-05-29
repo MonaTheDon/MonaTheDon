@@ -11,8 +11,8 @@
  ---
  
  ### About ME
- -👩‍💼 B.Tech Second Year Student specialising in Data Science, Computer Science Engineering.
- -👩‍💻 Hackathon Enthusiast
+ -👩‍💼 B.Tech Second Year Student specialising in Data Science, Computer Science Engineering. <br/>
+ -👩‍💻 Hackathon Enthusiast<br/>
  
  ### Connect with Me
  <p>
