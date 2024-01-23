@@ -11,7 +11,7 @@
  ---
  
  ### About ME
- -👩‍💼 B.Tech Second Year Student specialising in Data Science, Computer Science Engineering. <br/>
+ -👩‍💼 B.Tech Third Year Student specialising in Data Science, Computer Science Engineering. <br/>
  -👩‍💻 Hackathon Enthusiast<br/>
  
  ### Connect with Me
@@ -22,8 +22,8 @@
  </p>
  
  ### GITHUB STATS
- <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=MonaTheDon&count_private=true&show_icons=true&theme=dracula&custom_title=Mona's+GitHub+Stats" />
-<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MonaTheDon&layout=compact" />
+ 
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MonaTheDon&layout=compact" />
  
  
     
