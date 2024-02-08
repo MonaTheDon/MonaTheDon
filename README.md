@@ -1,4 +1,8 @@
-###     Another one of those hard keen learners, hungry for more and doesn't know when to stop.
+<h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanisha+Singh;I'm+an+ML+Enthusiast+🤖;I'm+a+Data+Scientist+🧠;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
+</h1>
+
+### Another one of those hard keen learners, hungry for more and doesn't know when to stop.
 ---
 ### What I am currently working on?
 <p>
@@ -11,15 +15,16 @@
  ---
  
  ### About ME
- -👩‍💼 B.Tech Third Year Student specialising in Data Science, Computer Science Engineering. <br/>
- -👩‍💻 Hackathon Enthusiast<br/>
- 
+ - 👩‍💼 B.Tech Third Year Student specialising in Data Science, Computer Science Engineering. <br/>
+ - 👩‍💻 Hackathon Enthusiast<br/>
+
  ### Connect with Me
  <p>
   <a href ="https://www.linkedin.com/in/the-tanisha-singh/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  </p>
+ -  📧 Reach me anytime: tanisha0714@gmail.com<br/><br/> 
  
  ### GITHUB STATS
  
