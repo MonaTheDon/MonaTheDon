@@ -17,6 +17,7 @@
  ### About ME
  - 👩‍💼 B.Tech Third Year Student specialising in Data Science, Computer Science Engineering. <br/>
  - 👩‍💻 Hackathon Enthusiast<br/>
+ - 📧 Reach me anytime: tanisha0714@gmail.com<br/>
 
  ### Connect with Me
  <p>
@@ -24,7 +25,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  </p>
- -  📧 Reach me anytime: tanisha0714@gmail.com<br/><br/> 
+ 
  
  ### GITHUB STATS
  
