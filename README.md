@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanisha+Singh;I'm+proficient+in+Computer+Vision+🤖;I'm+an+AI/ML+Developer+🧠;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanisha+Singh;Love+Computer+Vision+🤖;I'm+an+AI/ML+Developer+🧠;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
 </h1>
 
 ### Another one of those hard keen learners, hungry for more and doesn't know when to stop.
