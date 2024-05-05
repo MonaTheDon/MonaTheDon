@@ -27,7 +27,7 @@
  ### About ME
  - 👩‍💻 Proficient in Deep Learning & Neural Networks, Computer Vision, Machine Learning, Data Structures & Algorithm, C++, Python, MERN
  - 👩‍💼 B.Tech Third Year Student pursuing Computer Science Engineering. <br/>
-   🏆 **Hackathon Champion:** Won **8+ hackathons** <br/>
+ - 🏆 **Hackathon Champion:** Won **8+ hackathons** <br/>
  - 📧 Reach me anytime: tanisha0714@gmail.com<br/>
 
  ### Connect with Me
