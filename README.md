@@ -1,6 +1,8 @@
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanisha+Singh;Love+Computer+Vision+🤖;I'm+an+AI/ML+Developer+🧠;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=0D8B46&lines=Hi+There!+👋;+I'm+Tanisha+Singh;Love+Computer+Vision+🤖;I'm+an+AI/ML+Developer+🧠;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
 </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MonaTheDon&label=Profile%20views&color=0e75b6&style=flat" alt="MonaTheDon" /> </p>
 
 ### Another one of those hard keen learners, hungry for more and doesn't know when to stop.
 ---
@@ -25,9 +27,10 @@
  ---
  
  ### About ME
+ - 🥇 **Google Girl Hackathon Winner 2024 (India)**
  - 👩‍💻 Proficient in Deep Learning & Neural Networks, Computer Vision, Machine Learning, Data Structures & Algorithm, C++, Python, MERN
  - 👩‍💼 B.Tech Third Year Student pursuing Computer Science Engineering. <br/>
- - 🏆 **Hackathon Champion:** Won **8+ hackathons** <br/>
+ - 🏆 **Hackathon Champion:** Won **8+ hackathons and CSE Competitions** <br/>
  - 📧 Reach me anytime: tanisha0714@gmail.com<br/>
 
  ### Connect with Me
